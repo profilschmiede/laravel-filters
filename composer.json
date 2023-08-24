@@ -1,5 +1,5 @@
 {
-    "name": "mykeels/laravel-filters",
+    "name": "profilschmiede/laravel-filters",
     "description": "Provides a composable interface for data filtering with query strings",
     "license": "MIT",
     "authors": [
