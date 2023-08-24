@@ -13,7 +13,8 @@ class FilterableTraitTest extends TestCase
 {
     use SubjectTrait;
 
-    public function setUp() {
+    public function setUp(): void
+    {
         $this->subject = $this->subject();
     }
 
